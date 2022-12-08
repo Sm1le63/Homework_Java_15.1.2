@@ -1,7 +1,6 @@
 package manager;
 import data.Player;
 import exception.NotRegisteredException;
-
 import java.util.ArrayList;
 
 
